@@ -1,8 +1,8 @@
 {
-  "author":"SUPINFO AppFactory"
+  "author":""
 ,"pluginName":"3D Chess"
 ,"pluginDescription":"3D chess game done in HTML/CSS/JS. Works only in webkit"
-,"supportEmail":"supinfoappfactory@supinfo.com"
+,"supportEmail":""
 ,"control":{
   "content":{
     "enabled":true
